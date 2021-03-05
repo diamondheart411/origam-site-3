@@ -1,0 +1,13 @@
+* {
+    /* color: #1e90ff; */
+    background-color: #b1dbd5;
+    margin: 0px;
+}
+
+
+.header{
+    color:#ecaae7;
+    display: flex;
+    justify-content: space-between;
+    padding:25px
+}
